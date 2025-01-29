@@ -53,10 +53,11 @@
   },
   "hashAlgorithm": "blake2b-256",
   "body": {
+    "doNotList": true,
     "givenName": "Hede",
     "motivations": "I am driven by a deep conviction that blockchain technology can revolutionize various aspects of our lives. My motivation to become a DRep is rooted in my desire to represent and amplify the community's interests. With a background in technology and a keen interest in governance models, I have been inspired to leverage my skills and experiences for the betterment of Cardano. Being a DRep offers a unique opportunity to bridge the gap between the technical and social dimensions of blockchain governance, ensuring that Cardano's growth is both innovative and inclusive.",
     "objectives": "As an enthusiastic supporter and active member of the Cardano community since 2017, I have devoted myself to understanding and participating in the blockchain ecosystem. My journey with Cardano has been fueled by a passion for decentralization and innovative technology. Over the years, I've closely followed developments and actively contributed to discussions and initiatives, striving to further the network's growth and integrity.\n\nAs a DRep, my primary objective is to ensure the Cardano network remains secure, efficient, and sustainable. I believe in a fair and transparent governance system where every voice is heard. My aim is to facilitate decision-making processes that reflect the collective wisdom of our community. I aspire to promote inclusivity and collaboration, encouraging new and existing members alike to engage and contribute meaningfully to the network's advancement.",
-    "paymentAddress": "addr1qx3ufl289t7yz2hxs446xpv8hjhtfasegcx0dhu42f8fcazwz63uvu2qeddz6hst3gh5zs8tmel3pcs3rgwgcnjurz4sl3zatp",
+    "paymentAddress": "addr1qxmqwcth5jl5gxqzqlqjpqx2sw7f0ryqed4a4jecnh6dmp6wz63uvu2qeddz6hst3gh5zs8tmel3pcs3rgwgcnjurz4sfm3ay0",
     "qualifications": "- Extensive knowledge of Cardano's blockchain and ecosystem, developed over several years of active participation and study.\n\n- Strong analytical and problem-solving skills, essential for evaluating proposals and making informed decisions that benefit the Cardano network."
   }
 }
